@@ -1,0 +1,41 @@
+{
+  "decks": [
+    {
+      "name": "This is a deck",
+      "description": "Yes",
+      "id": 1
+    }
+  ],
+  "cards": [
+    {
+      "front": "Test card 1",
+      "back": "yes",
+      "deckId": 1,
+      "id": 1
+    },
+    {
+      "front": "Test card 2",
+      "back": "no",
+      "deckId": 1,
+      "id": 2
+    },
+    {
+      "front": "Test card 3",
+      "back": "Maybe",
+      "deckId": 1,
+      "id": 3
+    },
+    {
+      "front": "This is a test card",
+      "back": "This card was made using state",
+      "deckId": 1,
+      "id": 4
+    },
+    {
+      "front": "This card was made without refreshing",
+      "back": "Nice",
+      "deckId": 1,
+      "id": 5
+    }
+  ]
+}
